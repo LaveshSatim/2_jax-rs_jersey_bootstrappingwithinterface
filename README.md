@@ -103,3 +103,10 @@ public class Newschool implements Schoolx {
 }
 
 ```
+
+
+
+## url
+```xml
+http://localhost:8080/2_workingwithinterface_jaxrs-jersey/api/newschool/xyzschool/mumbai/type?division=c
+```
